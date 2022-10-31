@@ -2,17 +2,11 @@
 package CapaAplicacion;
 
 import CapaRecursos.Vehiculos;
-import CapaNegocio.negomotos;
-import java.util.ArrayList;
-import java.util.List;
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
+
+
 
 public class frmAutos extends javax.swing.JFrame {
 
-    /**
-     * Creates new form TrmMotos
-     */
     public frmAutos() {
         initComponents();
     }
